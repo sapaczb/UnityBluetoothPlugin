@@ -1,0 +1,11 @@
+/.idea/workspace.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*.pro
+gradle
+gradlew
+gradle.bat
+gradlew.bat
+gradle.properties
